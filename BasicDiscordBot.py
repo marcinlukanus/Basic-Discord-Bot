@@ -6,7 +6,7 @@ from discord import Game
 from discord.ext.commands import Bot
 
 BOT_PREFIX = ("?", "!")
-TOKEN = 'NDc0MzM5MTE5NTgxODg4NTEz.DkPCvw.kaUb6bsELmVxggd-v0Rbgxaw4gk'
+TOKEN = 'xxxx' # Removed personal token to ensure no one has access to my bot
 
 client = Bot(command_prefix=BOT_PREFIX)
 
